@@ -9,6 +9,7 @@ I'm a passionate **Computer Science student** who's currently on a journey to **
 - 🧱 **HTML** – for structure  
 - 🎨 **CSS** – for styling  
 - ⚙️ **JavaScript** – for interactivity  
+- React js and spring boot -
 
 ## 🌱 What I'm Working On
 
